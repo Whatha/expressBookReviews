@@ -103,5 +103,3 @@ public_users.get('/review/:isbn',function (req, res) {
 });
 
 module.exports.general = public_users;
-
-git commit -m 'added a new file browser-support.txt'
